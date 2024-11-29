@@ -1,2 +1,2 @@
-# 2525processor
-A disruptor and low latency 2525 processor
+# Mil Std 2525 Processor
+A disruptor and low latency Mil Std 2525 processor
